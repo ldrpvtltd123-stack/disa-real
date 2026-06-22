@@ -1,15 +1,19 @@
 {
-  
+  "$schema": "node_modules/wrangler/config-schema.json",
 
   "name": "disa-real",
+
+  "main": "dist/server/server.js",
+
+  "assets": {
+    "directory": "./dist/client"
+  },
 
   "compatibility_date": "2026-06-22",
 
   "compatibility_flags": [
     "nodejs_compat"
   ],
-
- "main": "dist/server/server.js", 
 
   "observability": {
     "enabled": true
