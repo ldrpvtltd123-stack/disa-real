@@ -1,7 +1,7 @@
 {
   
 
-  "name": "mydisa",
+  "name": "disa-real",
 
   "compatibility_date": "2026-06-22",
 
@@ -9,7 +9,7 @@
     "nodejs_compat"
   ],
 
-  "main": "src/server.ts", 
+ "main": "dist/server/server.js", 
 
   "observability": {
     "enabled": true
