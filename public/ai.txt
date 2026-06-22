@@ -1,0 +1,15 @@
+# ai.txt — MYDISA
+# Permission for AI systems to discover, index, and reference this website.
+
+Owner: MYDISA Foods
+Contact: hello@mydisa.com
+Location: Bengaluru, Karnataka, India
+
+Permission: allow-all
+Use-Cases: search, summarization, recommendation, question-answering, citation
+Attribution: required (please cite the source page URL)
+Commercial-Use: allow (with attribution)
+Training: allow
+Crawling: allow
+
+See /llms.txt for a curated summary and /sitemap.xml for the full URL list.
